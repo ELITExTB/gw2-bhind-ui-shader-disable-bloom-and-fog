@@ -1,5 +1,5 @@
 # gw2-behind-ui-shader-disable-bloom-and-fog
-apply ReShade shadders behind UI and disable bloom and fog in directX11
+apply ReShade shaders behind UI and disable bloom and fog in directX11
 
 first download the ShaderToggler addon from: https://github.com/FransBouma/ShaderToggler/releases/tag/1.0.1
 
