@@ -1,6 +1,10 @@
 # gw2-behind-ui-shader-disable-bloom-and-fog
 apply ReShade shaders behind UI and disable bloom and fog in directX11
 
+The ShaderToggler Add-on is for disabling bloom and/or fog per hotkey
+The ReShadeEffectShaderToggler Add-On is for adding ReShade Shaders to behind th UI
+You can install both or just one of them.
+
 first download the ShaderToggler addon from: https://github.com/FransBouma/ShaderToggler/releases/tag/1.0.1
 
 then download ReShadeEffectShaderToggler from https://github.com/4lex4nder/ReshadeEffectShaderToggler
