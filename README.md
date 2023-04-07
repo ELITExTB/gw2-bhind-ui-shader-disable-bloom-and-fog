@@ -18,6 +18,3 @@ download the official reshade with full add-on support from the offcial site htt
 
 install reshade for your Guild Wars 2 installation and place the downloaded ShaderToggler.addon, ReshadeEffectShaderToggler.addon, ShaderToggler.ini and the ReshadeEffectShaderToggler.ini in the folder, whre the Gw2-64.exe is located
 
-to disable bloom and fog you have to press "Numpad -" 
-
-you can change the keybind in the reshade menu under the addons tab
