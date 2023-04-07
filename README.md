@@ -8,7 +8,7 @@ The ReShadeEffectShaderToggler Add-On is for adding ReShade Shaders to behind th
 You can install both or just one of them.
 
 
-first download the ShaderToggler addon from: https://github.com/FransBouma/ShaderToggler/releases/tag/1.0.1
+first download the ShaderToggler addon from: https://github.com/John-Dean/ShaderToggler/releases/tag/1.0.0
 
 then download ReShadeEffectShaderToggler from https://github.com/4lex4nder/ReshadeEffectShaderToggler
 
